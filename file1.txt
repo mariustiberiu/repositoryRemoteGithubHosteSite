@@ -1,2 +1,2 @@
-This is my first Git Vim Editor writing sdf. 
-Change in fie
+This is my first Git Vim Editor writing 
+Change in file
